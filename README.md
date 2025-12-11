@@ -3,8 +3,8 @@
 Scripts for interacting with Genesys Cloud API to download call recordings and metadata.
 
 ## Main Recording Download Scripts
-- **download_recordings.py** - Current version for downloading recordings - Updated
-- **download_using_metadata.py** - Downloads recordings using metadata - editing
+- **download_recordings.py** - Current version for downloading recordings - Pushed
+- **download_using_metadata.py** - Downloads recordings using metadata - Pushed
 - **OLD_download_recordings.py** - Legacy recording download script
 - **OLD_V2_download_recordings.py** - Version 2 of legacy download script
 - **downloadV1.py** - Version 1 download script
