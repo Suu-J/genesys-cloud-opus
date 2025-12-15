@@ -6,13 +6,9 @@ Scripts for interacting with Genesys Cloud API to download call recordings and m
 - **download_recordings.py** - Current version for downloading recordings - Pushed
 - **download_using_metadata.py** - Downloads recordings using metadata - Pushed
 - **deprecated_download_recordings.py** - Legacy recording download script - Pushed
-- **OLD_V2_download_recordings.py** - Version 2 of legacy download script
-- **downloadV1.py** - Version 1 download script
-- **FinalVersion1.py** - Finalized download implementation
-- **testingWorking.py** - Testing version of working download script
 
 ## Recording Analysis & Counting
-- **list_ids_with_multiple_recordings.py** - Identifies conversations with multiple recordings
+- **list_ids_with_multiple_recordings.py** - Self Explanatory ig
 - **tally_multi_recording_count.py** - Tallies recording counts per conversation
 - **count_recordings_for_each_id.py** - Counts recordings for each conversation ID
 - **Final_count_reccs.py** - Final version of recording counter
