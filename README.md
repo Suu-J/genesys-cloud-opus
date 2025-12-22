@@ -11,7 +11,7 @@ Scripts for interacting with Genesys Cloud API to download call recordings and m
 - **tally_multi_recording_count.py** - recording counts per conversation - Pushed
 - **count_recordings_for_each_id.py** - Counts recordings for each conversation ID - Pushed
 - **Final_count_reccs.py** - Final version of recording counter - Pushed
-- **MultipleIDfetches.py** - Fetches data for multiple IDs
+- **MultipleIDfetches.py** - Fetches data for multiple IDs - Pushed
 - **MultipleIDfetches_2.py** - Enhanced version of multiple ID fetcher
 
 ## Recording Invocation Scripts, due to the API taking time to process opus files
