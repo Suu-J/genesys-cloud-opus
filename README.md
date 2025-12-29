@@ -15,7 +15,7 @@ Scripts for interacting with Genesys Cloud API to download call recordings and m
 - **MultipleIDfetches_2.py** - Enhanced version of multiple ID fetcher - Pushed
 
 ## Recording Invocation Scripts, due to the API taking time to process opus files
-- **recordingInvocation.py** - Invokes recording operations - Pushing
+- **recordingInvocation.py** - Invokes recording operations - Pushed
 - **recordingInvocate2.py** - Version 2 of recording invocation
 - **recordingInvocate3.py** - Version 3 of recording invocation
 - **check.py** - Checks recording status
