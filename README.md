@@ -17,7 +17,7 @@ Scripts for interacting with Genesys Cloud API to download call recordings and m
 ## Recording Invocation Scripts, due to the API taking time to process opus files
 - **recordingInvocation.py** - Invokes recording operations - Pushed
 - **recordingInvocate2.py** - Version 2 of recording invocation - Pushed
-- **recordingInvocate3.py** - Version 3 of recording invocation - Pushed
+- **get_user_detail.py** - Fetches self user detail - Pushed
 - **check.py** - Checks recording status
 
 ## Authentication
