@@ -18,7 +18,7 @@ Scripts for interacting with Genesys Cloud API to download call recordings and m
 - **recordingInvocation.py** - Invokes recording operations - Pushed
 - **recordingInvocate2.py** - Version 2 of recording invocation - Pushed
 - **get_user_detail.py** - Fetches self user detail - Pushed
-- **check.py** - Checks recording status
+- **check_conv_id_status.py** - Checks recording status
 
 ## Authentication
 These scripts use OAuth2 client credentials flow with Genesys Cloud API.
